@@ -131,7 +131,11 @@ https://public.tableau.com/app/profile/anaghaparkhi/viz/HRAttritionAnalysis_1748
 
 ---
 
-### 📁 Repository Structure
+### 📁 Dashboard Preview
+
+![HR Attrition Dashboard](Images/HR.png)
+
+
 
 ---
 
