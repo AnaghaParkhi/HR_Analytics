@@ -135,8 +135,6 @@ https://public.tableau.com/app/profile/anaghaparkhi/viz/HRAttritionAnalysis_1748
 
 ![HR Attrition Dashboard](Images/HR.png)
 
-
-
 ---
 
 ### 💡 Key Insights
