@@ -160,12 +160,9 @@ https://public.tableau.com/app/profile/anaghaparkhi/viz/HRAttritionAnalysis_1748
 ### 👤 Author
 
 **Anagha Parkhi**
-
 MS in Business Analytics  
 Data Analyst | BI Developer
 
-Tableau Public  
-https://public.tableau.com/app/profile/anaghaparkhi
+- LinkedIn: [https://www.linkedin.com/in/anaghaparkhi](https://www.linkedin.com/in/anaghaparkhi)  
+- GitHub: [https://github.com/anaghaparkhi](https://github.com/anaghaparkhi)  
 
-GitHub  
-https://github.com/AnaghaParkhi
